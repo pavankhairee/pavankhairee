@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavankhairee
-- 👀 I’m interested in development 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me ig:- @pavank_kh
+- 📫 How to reach me :- pavankhaire2002@gmail.com
 
 <!---
 pavankhairee/pavankhairee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
