@@ -43,6 +43,7 @@ User permissions and content integrity checks.
 
 📚 Education
 MSc CA, Fergusson College, Pune (2023–2025) – CGPA: 7.20
+
 BCA, MES Abasaheb Garware College, Pune (2020–2023) – CGPA: 8.20
 
 <!---
