@@ -5,6 +5,7 @@ I love building scalable systems, real-time applications, and clean backend APIs
 💡 Quick learner • Strong fundamentals • Backend-focused • Passionate about building and shipping real projects.
 
 🔗 Connect with Me
+
 LinkedIn: linkedin.com/in/pavankhaire
 
 GitHub: github.com/pavankhairee
