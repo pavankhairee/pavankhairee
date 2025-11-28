@@ -6,7 +6,9 @@ I love building scalable systems, real-time applications, and clean backend APIs
 
 🔗 Connect with Me
 LinkedIn: linkedin.com/in/pavankhaire
+
 GitHub: github.com/pavankhairee
+
 Email: pavankhaire2002@gmail.com
 
 🛠️ Tech Stack
